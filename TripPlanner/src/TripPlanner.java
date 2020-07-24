@@ -1,4 +1,4 @@
-/* MODULE ONE Project - Trip Planner - Pre-Merit America AP Certification Class Assignment*/
+/* MODULE ONE Project - Trip Planner - Pre-Merit America AP Certification Class Assignment Final*/
 
 import java.util.Scanner;
 
